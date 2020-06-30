@@ -7,7 +7,7 @@ Simple App to calculate your age by year,month and day by using Kotlin
 - LinearLayout
 
 # Images
-<img src="images/1.png" height="400" width="200"><img src="images/2.png" height="400" width="200">
+<img src="images/1.png" height="400" width="200">                         <img src="images/2.png" height="400" width="200">
 
 # Author
 
