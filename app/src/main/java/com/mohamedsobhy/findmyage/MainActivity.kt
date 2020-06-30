@@ -29,6 +29,7 @@ class MainActivity : AppCompatActivity() {
                 yearEditText.error = "Please Enter Your Year"
             }
             if (dayOfBirth.isEmpty()) {
+
                 dayEditText.error = "Please Enter Your Day"
             }
 
