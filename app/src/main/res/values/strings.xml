@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Find My Age</string>
+    <string name="year">Year</string>
+    <string name="get_my_age">Get My Age</string>
+    <string name="day">Day</string>
+    <string name="month">Month</string>
+</resources>
